@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TP1.SD-NonBlokon/SDBLOKON.iml" filepath="$PROJECT_DIR$/TP1.SD-NonBlokon/SDBLOKON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1.SD-ServerChatNonBlokon - Copie/SDBLOKON (1).iml" filepath="$PROJECT_DIR$/TP1.SD-ServerChatNonBlokon - Copie/SDBLOKON (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TP-1.iml" filepath="$PROJECT_DIR$/.idea/TP-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1.SD-BLOKON-MAYVEN/TP1-System_distribuer/TP1-System_distribuer.iml" filepath="$PROJECT_DIR$/TP1.SD-BLOKON-MAYVEN/TP1-System_distribuer/TP1-System_distribuer.iml" />
+    </modules>
+  </component>
+</project>
